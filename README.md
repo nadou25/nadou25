@@ -42,6 +42,7 @@ class Nadir:
 
 | Projet | Description | Tech | Status |
 |--------|-------------|------|--------|
+| [**🔮 Prediction System**](https://github.com/nadou25/prediction-system) | Prédiction d'activité avec 15+ modèles ML | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ✅ Active |
 | [**🎯 Opportunity Sniper**](https://github.com/nadou25/opportunity-sniper) | Détection d'opportunités trading avec ML (PPO/DQN) + Telegram | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/-PyQt6-41CD52?style=flat&logo=qt&logoColor=white) | ✅ Active |
 | [**📈 TNT Prevision**](https://github.com/nadou25/tnt-prevision) | Screener actions multi-marchés avec 20+ indicateurs techniques | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ✅ Active |
 | [**🌐 P3 Commerce Radar**](https://github.com/nadou25/p3-commerce-radar) | Surveillance risques commerciaux mondiaux via GDELT + recommandations | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) | ✅ Auto |
